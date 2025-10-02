@@ -6,3 +6,5 @@ D:\Profiles\cda7733\source\repos\ExamCode\ExamCode\obj\Debug\ExamCode.csproj.Cor
 D:\Profiles\cda7733\source\repos\ExamCode\ExamCode\obj\Debug\ExamCode.exe
 D:\Profiles\cda7733\source\repos\ExamCode\ExamCode\obj\Debug\ExamCode.pdb
 D:\Profiles\cda7733\source\repos\ExamCode\ExamCode\obj\Debug\ExamCode.exe.config
+C:\Users\zodin\OneDrive\Documents\GitHub\mairuma-repo\obj\Debug\ExamCode.csproj.AssemblyReference.cache
+C:\Users\zodin\OneDrive\Documents\GitHub\mairuma-repo\obj\Debug\ExamCode.csproj.CoreCompileInputs.cache

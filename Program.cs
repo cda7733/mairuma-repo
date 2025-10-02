@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Deployment.Internal;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -10,6 +11,20 @@ namespace ExamCode
     {
         static void Main(string[] args)
         {
+            Random random = new Random();
+            for (int i = 0; i < 10; i++)
+            {
+                // Next(x,y), overloaded. x is inclusive, y is exclusive
+                Console.WriteLine($"number {i}: {random.Next(1,7)}");
+            }
+            TestMe("nicki-chan", random);
+            
+            static void TestMe(string name, Random rng)
+            {
+                Console.WriteLine($"method random: {rng.Next()}");
+            }
+
+
             /* string creatorName = "charisma";
             Utility.Welcome();
             Utility.Welcome(creatorName);
@@ -34,16 +49,14 @@ namespace ExamCode
             */
 
             // soldier code
-            Soldier soldier1 = new Soldier();
+           /*  Soldier soldier1 = new Soldier();
             Console.Write("enter soldier's name: ");
             soldier1.Name = Console.ReadLine();
             Console.Write("enter soldier's weapon: ");
             soldier1.Weapon = Console.ReadLine();
             Console.Write("enter soldier's age: ");
             soldier1.Age = Console.ReadLine();
-
-            
+           */
         }
-
     }
 }
