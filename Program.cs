@@ -33,7 +33,7 @@ namespace ExamCode
             OC1.Display();
             */
 
-            // soldier code
+            /* soldier code
             Soldier soldier1 = new Soldier();
             Console.Write("enter soldier's name: ");
             soldier1.Name = Console.ReadLine();
@@ -41,9 +41,18 @@ namespace ExamCode
             soldier1.Weapon = Console.ReadLine();
             Console.Write("enter soldier's age: ");
             soldier1.Age = Console.ReadLine();
+            */
 
-            
+            Console.WriteLine("what is your favorite number?");
+            string input = Console.ReadLine().Trim();
+            try
+            {
+                int.Parse(input);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("invalid input");
+            }
         }
-
     }
 }
