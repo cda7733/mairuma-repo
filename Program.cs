@@ -10,6 +10,7 @@ namespace ExamCode
     {
         static void Main(string[] args)
         {
+
             /* string creatorName = "charisma";
             Utility.Welcome();
             Utility.Welcome(creatorName);
@@ -41,7 +42,7 @@ namespace ExamCode
             soldier1.Weapon = Console.ReadLine();
             Console.Write("enter soldier's age: ");
             soldier1.Age = Console.ReadLine();
-            */
+            
 
             Console.WriteLine("what is your favorite number?");
             string input = Console.ReadLine().Trim();
@@ -53,6 +54,7 @@ namespace ExamCode
             {
                 Console.WriteLine("invalid input");
             }
+            */
         }
     }
 }

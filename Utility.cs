@@ -21,8 +21,6 @@ namespace ExamCode
             Console.WriteLine($"welcome back to demon school, {name}-kun!\n");
         }
 
-
-        
         internal static string GameName(string thing)
         {
             int playerIndex = 1;
