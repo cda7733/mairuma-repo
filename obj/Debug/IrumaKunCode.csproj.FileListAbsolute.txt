@@ -1,0 +1,8 @@
+D:\Profiles\cda7733\source\repos\ExamCode\ExamCode\bin\Debug\ExamCode.exe.config
+D:\Profiles\cda7733\source\repos\ExamCode\ExamCode\bin\Debug\ExamCode.exe
+D:\Profiles\cda7733\source\repos\ExamCode\ExamCode\bin\Debug\ExamCode.pdb
+D:\Profiles\cda7733\source\repos\ExamCode\ExamCode\obj\Debug\IrumaKunCode.csproj.AssemblyReference.cache
+D:\Profiles\cda7733\source\repos\ExamCode\ExamCode\obj\Debug\ExamCode.exe.config
+D:\Profiles\cda7733\source\repos\ExamCode\ExamCode\obj\Debug\IrumaKunCode.csproj.CoreCompileInputs.cache
+D:\Profiles\cda7733\source\repos\ExamCode\ExamCode\obj\Debug\ExamCode.exe
+D:\Profiles\cda7733\source\repos\ExamCode\ExamCode\obj\Debug\ExamCode.pdb
